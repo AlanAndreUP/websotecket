@@ -1,9 +1,9 @@
 function getInitialMessage() {
     return "Hola, soy tu Chatbot. Por favor, elige una opción:\n" +
-           "1. Como se agenda una cita.\n" +
-           "2. Como modifico una cita.\n" +
-           "3. No me aparecen ninguna nota después de agendar una cita.\n" +
-           "4. ¿Puedo cancelar una o más citas?.\n" +
+           "1. Como se agenda una cita." +
+           "2. Como modifico una cita." +
+           "3. No me aparecen ninguna nota después de agendar una cita." +
+           "4. ¿Puedo cancelar una o más citas?." +
            "5. ¡Puse información errónea! ¿Qué hago.";
 }
 
